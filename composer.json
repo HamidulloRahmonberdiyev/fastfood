@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "myshop\\": "vendor/myshop/core",
+            "app\\": "app"
+        }
+    },
+    "require": {
+        "gabordemooij/redbean": "^5.7",
+        "vlucas/valitron": "^1.4",
+        "symfony/mailer": "^6.0",
+        "swiftmailer/swiftmailer": "^6.3"
+    }
+}

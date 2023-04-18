@@ -1,0 +1,1 @@
+a:2:{s:4:"data";a:2:{i:1;a:4:{i:1;s:10:"Mustahkam ";i:2;s:5:"Arzon";i:3;s:7:"Sifatli";i:4;s:9:"Zamonaviy";}i:2;a:1:{i:5;s:15:"Qulay va ixcham";}}s:8:"end_time";i:1674539324;}
