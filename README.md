@@ -6,7 +6,7 @@ PHP: v8.0
 
 ## About project
 
-This project prepared for portfolio. Founder of the project is Hamidullo Rahmonberdiyev.
+This project prepared for portfolio. This fastfood site for online order.
 
 ## Installiation of the project
 
