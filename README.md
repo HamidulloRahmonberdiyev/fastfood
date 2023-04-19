@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.php.net/images/logos/php-logo.svg)" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://php.net" target="_blank"><img src="https://www.php.net/images/logos/php-logo.svg" width="400" alt="PHP Logo"></a></p>
 
 <p align="center">
 Laravel: v10.0 |
